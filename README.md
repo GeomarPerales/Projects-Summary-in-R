@@ -16,7 +16,7 @@ the repository contain following projects:
 
 ### - 2018
 
-***Scripts***
+- ***Scripts***
 
-* Probability Distributions for hydrology with R (English): scripts developed for statistical hydrology (Course) - IMF - UNMSM.
+  - Probability Distributions for hydrology with R (English): scripts developed for statistical hydrology (Course) - IMF - UNMSM.
 
