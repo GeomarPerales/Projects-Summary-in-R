@@ -2,16 +2,16 @@
 
 # R Projects Summary
 
-this repository contain a summary all projects (in english and spanish) developed by Geomar Perales in R, from university to actually.
+this repository contain a summary all projects (in english and spanish) developed by Geomar Perales in R, from university to actually for multiple activities.
 
 ## Contents
 
 the repository contain following projects:
 
-- 2020
+>> 2020
 
 * aedR (Spanish): AedR es es una librería que contiene algunas herramientas para realizar análisis exploratorio de datos hidrológicos.
 
-- 2018
+>> 2018
 
 * Probability Distributions for hydrology with R (English): scripts developed for statistical hydrology (Course) - IMF - UNMSM.
