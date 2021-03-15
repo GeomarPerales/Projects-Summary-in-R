@@ -10,9 +10,9 @@ the repository contain following projects:
 
 ### - 2020
 
-* ***Library***
+-- ***Library***
 
-  * aedR (Spanish): AedR es es una librería que contiene algunas herramientas para realizar análisis exploratorio de datos hidrológicos.
+  -- aedR (Spanish): AedR es es una librería que contiene algunas herramientas para realizar análisis exploratorio de datos hidrológicos.
 
 ### - 2018
 
