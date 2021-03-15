@@ -13,12 +13,12 @@ the repository contain following projects:
 - ***Library***
 
   - aedR (Spanish): AedR es es una librería que contiene algunas herramientas para realizar análisis exploratorio de datos hidrológicos.
-  >> https://github.com/GeomarPerales/aedR
+    > https://github.com/GeomarPerales/aedR
 
 ### - 2018
 
 - ***Scripts***
 
   - Probability Distributions for hydrology with R (English): scripts developed for statistical hydrology (Course) - IMF - UNMSM.
-  >> https://github.com/GeomarPerales/Probability-Distributions-for-hydrology-with-R
+    > https://github.com/GeomarPerales/Probability-Distributions-for-hydrology-with-R
 
