@@ -14,7 +14,8 @@ March
 
 - ***Library***
 
-  - RPisco (English): Pisco package is a library with tools for manipulate Pisco data of SENAMHI (Peru).
+  - RPisco (English): Pisco package is a library with tools for manipulate Pisco data of SENAMHI (Peru). PISCO is Peruvian Interpolated Data of the Senamhi’s Climatological and       Hydrologycal Observations.
+  
     > https://github.com/GeomarPerales/RPisco
 
   - aedR (Spanish): AedR es es una librería que contiene algunas herramientas para realizar análisis exploratorio de datos hidrológicos.
