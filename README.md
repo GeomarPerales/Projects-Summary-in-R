@@ -12,7 +12,7 @@ the repository contain following projects:
 
 - ***Library***
 
-- epwgen (English): multiple extraction from PISCO daily data and sun daily data generation for WGEN model.
+  - epwgen (English): multiple extraction from PISCO daily data and sun daily data generation for WGEN model.
   
     > https://github.com/GeomarPerales/epwgen
 
