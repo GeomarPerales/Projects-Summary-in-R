@@ -12,6 +12,10 @@ the repository contain following projects:
 
 - ***Library***
 
+- epwgen (English): multiple extraction from PISCO daily data and sun daily data generation for WGEN model.
+  
+    > https://github.com/GeomarPerales/epwgen
+
   - RPisco (English): Pisco package is a library with tools for manipulate Pisco data of SENAMHI (Peru). PISCO is Peruvian Interpolated Data of the Senamhi’s Climatological and       Hydrologycal Observations.
   
     > https://github.com/GeomarPerales/RPisco
